@@ -1,8 +1,8 @@
 # Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
 ## Project information
-- **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
+- **Author**: Yiyang Zhang, Computation and Design with tracks in Digital Media, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Problem Set 1 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Disclaimer**: Submissions SRS program instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
 - **Project Summary**: 
