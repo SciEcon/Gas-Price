@@ -13,9 +13,12 @@
   - [Intellectual Merits and Practical impacts of your project.]
 
 ## Table of Contents
-- data
-- code
-- spotlight
+- [Data](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/README.md#data)
+- [Code](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/README.md#code)
+- [Spotlight](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/README.md#spotlight)
+- [More about the author](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/README.md#more-about-the-author)
+- [References](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/README.md#references)
+- [GitHub Page](https://github.com/YiyangZhangyz738/Gas-Price/tree/main)
 
 
 
@@ -80,7 +83,7 @@ The predicted and actual values have a low degree of fitting, and this event has
 
 ## More about the Author
 
-![image](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/headshot.jpeg）
+![image](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/headshot.jpeg)
 - Yiyang Zhang is from the class of 2025, majoring in Computation and Design with tracks in Digital Media at Duke Kunshan University. She is designated a Summer Research Scholar for the summer of 2023 and awarded by the SRS program. Her research interest is NFT transaction, digital design, and media interaction. 
 
 ## References
