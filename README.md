@@ -5,9 +5,11 @@
 - **Disclaimer**: SRS program instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Thanks to Professor Luyao Zhang for guiding my project. Thanks to the SciEcon editorial team including Xintong Wu, Wanlin Deng, Xinyu Tian, Zesen Zhuang, Prof. Luyao Zhang. Thanks to Yu Wang for giving me emotional support and encouragement.
 - **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario (Data Source)]
+  - [Summarize the Background/Motivation]The Non-Fungible Token (NFT) market has experienced tremendous growth and popularity in recent years, attracting artists, collectors, and investors alike. However, one of the challenges facing this market is the volatility of transaction fees, which can fluctuate greatly depending on network congestion and gas price dynamics. Such price fluctuations pose a barrier to the development of a more stable and predictable NFT market. Previous research in the field has predominantly focused on predicting gas price changes using various modeling techniques. While these studies have provided valuable insights into understanding gas price, there is a gap in the literature regarding the examination of gas price stability specifically in the context of the London Upgrade and its impact on the NFT market.
+By studying the gas price data before and after the implementation of the London Upgrade, we aim to analyze the changes in gas price standard deviation as a measure of gas price stability. This analysis will provide insights into the impact of the London Upgrade on the stability of gas fee. Furthermore, we will explore the potential implications of gas price stability on the NFT market’s transaction fees. A more stable gas price environment could contribute to reducing the price volatility associated with NFT transactions, making it more attractive for market participants and facilitating smoother operations within the NFT ecosystem.
+
+  - [Research Questions] How does the London Upgrade affect the stability of gas fees?
+  - [Application Scenario (Data Source)] https://etherscan.io/chart/gasprice
   - [Methodology]
   - [Results]
   - [Intellectual Merits and Practical impacts of your project.]
