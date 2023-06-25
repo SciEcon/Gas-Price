@@ -38,15 +38,18 @@
 
 ## Spotlight
 - Prediction
+  
 ![image](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/spotlight/figures/Linear%20Regression.png)
 ### Figure No.1. Linear regression prediction histogram of the stability of Gas Fee
 The predicted and actual values have a low degree of fitting, and this event has remarkable impact on life expectancy.
 
 - Causal Inference Research Design
+
 ![image](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/spotlight/figures/Causal%20Inference%20Research%20Design.png)
 ### Figure No.2. 
 
 - Causal Inference
+
 ![image](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/spotlight/figures/Casual%20Inference.png)
 ### Figure No.3. 
 
