@@ -3,8 +3,7 @@
 - **Author**: Yiyang Zhang, Computation and Design with tracks in Digital Media, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions SRS program instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**: Thanks to Professor Luyao Zhang for guiding my project. Thanks to the SciEcon editorial team including Xintong Wu, Wanlin Deng, Xinyu Tian, Zesen Zhuang, Prof. Luyao Zhang. Thanks to Yu Wang for giving me emotional support and encouragement.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
@@ -21,32 +20,34 @@
 
 
 ## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
+- Data Source: https://etherscan.io/chart/gasprice
+- Meta Data Infomation:
 
+| Data Files | Data Type | Data Content |
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+- Prediction Code Source: https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction
+
+- Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html
+
+| Prediction | Causal Inference |
+| ----- | ----- | 
+|  [Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)  | [Query_Data.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Query_Data.ipynb) |
+| [Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb) | [Process_Data.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Process_Data.ipynb) |
+|  | [Analyze_Data.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Analyze_Data.ipynb) | 
 
 ## Spotlight
-- Figures
-- Posters
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+### Figure No.1. 
+
 
 ## References
 
 ### Data Source
-- Data Source Title and URL
+- https://etherscan.io/chart/gasprice
 ### Code Source
-- Code Source Title and URL
+- https://github.com/Rising-Stars-by-Sunshine/stats201-portfolio
+- https://github.com/sunshineluyao/design-principle-blockchain
+
 ### Articles
 - Article Source Title and URL
 ### Literature
