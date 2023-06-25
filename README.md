@@ -99,11 +99,12 @@ The predicted and actual values have a low degree of fitting, and this event has
 ### Articles
 - Article Source Title and URL
 ### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
 
-```
+- Zhang, Luyao (Sunshine). 2022. “Machine Learning for Causal Inference.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/causal-inference/release/8.
+- Zhang, Luyao (Sunshine), Zesen Zhuang, and Xinyu (Michelle) Tian. 2022. “Machine Learning for Predictions.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/ml-prediction/release/4.
+
+、、、
 @article{levin2022bridging,
   title={Bridging level-k to nash equilibrium},
   author={Levin, Dan and Zhang, Luyao},
