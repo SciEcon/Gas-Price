@@ -1,8 +1,8 @@
-# Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# NFT Transaction Fee：Analysis of the Impact of the London Upgrade on the stability of Gas Fee
 ## Project information
 - **Author**: Yiyang Zhang, Computation and Design with tracks in Digital Media, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions SRS program instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Disclaimer**: SRS program instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Thanks to Professor Luyao Zhang for guiding my project. Thanks to the SciEcon editorial team including Xintong Wu, Wanlin Deng, Xinyu Tian, Zesen Zhuang, Prof. Luyao Zhang. Thanks to Yu Wang for giving me emotional support and encouragement.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
