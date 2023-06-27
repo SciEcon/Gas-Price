@@ -20,8 +20,10 @@ For the standard deviation of the daily average gas price used of the Ethereum d
    - Causal inference research design
 In this exploratory research, the standard deviation of the daily average gas price used of the Ethereum was analyzed by regression discontinuity design network data from July 30, 2015 to June 23, 2023, including data before and after the London Upgrade. If you don't consider the London Upgrade, the standard deviation of the daily average gas price used of the Ethereum network. It should steadily increase according to the original trend, that is, the stability of the gas price will decrease. But given the  London Upgrade in August 5, 2021 the standard deviation of the daily average gas price used of the Ethereum network was expected to turn around and gradually decline because of this event. But it won't go to zero. This means that the London Upgrade is expected to contribute to increasing the stability of the gas price in this exploratory research.
 
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
+  - [Results] We accept the predictions in the study design that the London Upgrade to the standard deviation of the daily average gas price used of the Ethereum There are negative effects, that is, the London Upgrade contributes to increasing the stability of the gas price in this exploratory research.
+
+  - [Intellectual Merits and Practical impacts of your project.] The research explores the impact of the London Upgrade on the stability of gas fees in the Ethereum network and its potential implications for the NFT market. By analyzing the standard deviation of the daily average gas price before and after the upgrade, the study finds that the London Upgrade contributes to increasing the stability of gas fees. The innovation of this research lies in its specific focus on examining the impact of the London Upgrade on the stability of gas fees in the context of the NFT market.
+
 
 ## Table of Contents
 - [Data](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/README.md#data)
@@ -78,19 +80,20 @@ In this exploratory research, the standard deviation of the daily average gas pr
   
 ![image](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/spotlight/figures/Linear%20Regression.png)
 ### Figure No.1. Linear regression prediction histogram of the stability of Gas Fee
-The predicted and actual values have a low degree of fitting, and this event has remarkable impact on life expectancy.
+The figure above uses the linear regression prediction method in machine learning and is obtained by collecting the standard deviation of the daily average gas price used of the Ethereum data. The blue section represents the real data and the green section represents the data predicted by linear regression. It can be noted that the predicted data in the first half of the horizontal coordinate is larger than the actual data. In other words, the predicted value is greater than the actual predicted value, and the actual standard deviation of the daily average gas price is significantly reduced due to the impact of the event.
 
 - Causal Inference Research Design
 
 ![image](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/spotlight/figures/Causal%20Inference%20Research%20Design.png)
 ### Figure No.2. Causal Inference Research Design
-
+In this exploratory research, the standard deviation of the daily average gas price used of the Ethereum was analyzed by regression discontinuity design network data from July 30, 2015 to June 23, 2023, including data before and after the London Upgrade. If you don't consider the London Upgrade, the standard deviation of the daily average gas price used of the Ethereum network. It should steadily increase according to the original trend, that is, the stability of the gas price will decrease. But given the  London Upgrade in August 5, 2021 the standard deviation of the daily average gas price used of the Ethereum network was expected to turn around and gradually decline because of this event. But it won't go to zero. This means that the London Upgrade is expected to contribute to increasing the stability of the gas price in this exploratory research.
 
 - Causal Inference
 
 ![image](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/spotlight/figures/Casual%20Inference.png)
 ### Figure No.3. Result
-
+The blue broken line in the figure above represents the actual change in the standard deviation of the daily average gas price used of the Ethereum. The solid red line is the linear regression fitting line of the standard deviation of the daily average gas price before the London Upgrade, while the dotted line in red is an extension of this line after the London Upgrade. The dark blue straight line is a linear regression fit for the standard deviation of the daily average gas price after the London Upgrade. The grey vertical dotted line represents the London Upgrade on August 5, 2021.
+By observing the two linear regression fitting lines, it can be judged that after the London Upgrade event, the standard deviation of the daily average gas price used of the Ethereum The trend has changed from upward to downward. This is consistent with the predictions in the study design. So we accept the predictions in the study design that the London Upgrade to the standard deviation of the daily average gas price used of the Ethereum There are negative effects, that is, the London Upgrade contributes to increasing the stability of the gas price in this exploratory research.
 
 ## More about the Author
 
@@ -105,24 +108,11 @@ The predicted and actual values have a low degree of fitting, and this event has
 - https://github.com/Rising-Stars-by-Sunshine/stats201-portfolio
 - https://github.com/sunshineluyao/design-principle-blockchain
 
-### Articles
-- Article Source Title and URL
 ### Literature
-
+“Gas and Fees.” 2023. Ethereum.org. May 31, 2023. https://ethereum.org/en/developers/docs/gas/.
+‌Kasireddy, Preethi. 2019. “How Does Ethereum Work, Anyway?” Medium. October 29, 2019. https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369.
+‌Parham, Arsalan, and Corinna Breitinger. 2022. “Non-Fungible Tokens: Promise or Peril?,” February. https://doi.org/10.48550/arxiv.2202.06354.
+‌Pierro, Giuseppe Antonio, and Henrique Rocha. 2019. “The Influence Factors on Ethereum Transaction Fees.” 2019 IEEE/ACM 2nd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB), May, 24–31. https://doi.org/10.1109/wetseb.2019.00010.
 
 - Zhang, Luyao (Sunshine). 2022. “Machine Learning for Causal Inference.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/causal-inference/release/8.
 - Zhang, Luyao (Sunshine), Zesen Zhuang, and Xinyu (Michelle) Tian. 2022. “Machine Learning for Predictions.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/ml-prediction/release/4.
-
-```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
-
