@@ -109,10 +109,9 @@ By observing the two linear regression fitting lines, it can be judged that afte
 - https://github.com/sunshineluyao/design-principle-blockchain
 
 ### Literature
-“Gas and Fees.” 2023. Ethereum.org. May 31, 2023. https://ethereum.org/en/developers/docs/gas/.
-‌Kasireddy, Preethi. 2019. “How Does Ethereum Work, Anyway?” Medium. October 29, 2019. https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369.
-‌Parham, Arsalan, and Corinna Breitinger. 2022. “Non-Fungible Tokens: Promise or Peril?,” February. https://doi.org/10.48550/arxiv.2202.06354.
-‌Pierro, Giuseppe Antonio, and Henrique Rocha. 2019. “The Influence Factors on Ethereum Transaction Fees.” 2019 IEEE/ACM 2nd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB), May, 24–31. https://doi.org/10.1109/wetseb.2019.00010.
-
+- “Gas and Fees.” 2023. Ethereum.org. May 31, 2023. https://ethereum.org/en/developers/docs/gas/.
+- ‌Kasireddy, Preethi. 2019. “How Does Ethereum Work, Anyway?” Medium. October 29, 2019. https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369.
+- ‌Parham, Arsalan, and Corinna Breitinger. 2022. “Non-Fungible Tokens: Promise or Peril?,” February. https://doi.org/10.48550/arxiv.2202.06354.
+‌- Pierro, Giuseppe Antonio, and Henrique Rocha. 2019. “The Influence Factors on Ethereum Transaction Fees.” 2019 IEEE/ACM 2nd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB), May, 24–31. https://doi.org/10.1109/wetseb.2019.00010.
 - Zhang, Luyao (Sunshine). 2022. “Machine Learning for Causal Inference.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/causal-inference/release/8.
 - Zhang, Luyao (Sunshine), Zesen Zhuang, and Xinyu (Michelle) Tian. 2022. “Machine Learning for Predictions.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/ml-prediction/release/4.
