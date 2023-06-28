@@ -51,17 +51,17 @@ In this exploratory research, the standard deviation of the daily average gas pr
 - 
 | File Name | Variable Name | Description | Frecuency | Unit | Type |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| [GasPrice.csv](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/data/Queried_Data/GasPrice.csv)  | Date(UTC) | date of data collected | daily | day | datetime |
+| [GasPrice.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Queried_Data/GasPrice.csv)  | Date(UTC) | date of data collected | daily | day | datetime |
 |  | UnixTimeStamp | UnixTimeStamp of data collected | daily | None | Timestamp |
 |  | Value (Wei) | the daily average gas price used of the Ethereum network | daily | Wei | int |
-| [GP.csv](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/data/Queried_Data/GP.csv) | Date(UTC) | date of data collected | daily | day | datetime |
+| [GP.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Queried_Data/GP.csv) | Date(UTC) | date of data collected | daily | day | datetime |
 |  | UnixTimeStamp | UnixTimeStamp of data collected | daily | None | Timestamp |
 |  | Value (Wei) | the daily average gas price used of the Ethereum network | daily | Wei | int |
-| [GPR.csv](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/data/Processed_Data/GPR.csv)  |  Date | date of data collected | daily | day | datetime |
+| [GPR.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/GPR.csv)  |  Date | date of data collected | daily | day | datetime |
 |  | Rate | the standard deviation of the daily average gas price used of the Ethereum network | daily | None | float |
-| [Regression_Train.csv](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/data/Processed_Data/Regression_Train.csv) | theta | the daily average gas price used of the Ethereum network | daily | None | float |
+| [Regression_Train.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/Regression_Train.csv) | theta | the daily average gas price used of the Ethereum network | daily | None | float |
 |  | theta_past_ma10 | average standard deviation of past 10 days | daily | None | float |
-| [Regression_Test.csv](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/data/Processed_Data/Regression_Test.csv) | theta | the daily average gas price used of the Ethereum network | daily | None | float |
+| [Regression_Test.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/Regression_Test.csv) | theta | the daily average gas price used of the Ethereum network | daily | None | float |
 |  | theta_past_ma10 | average standard deviation of past 10 days | daily | None | float |
 
 ## Code
@@ -71,33 +71,33 @@ In this exploratory research, the standard deviation of the daily average gas pr
 
 | Prediction | Causal Inference |
 | ----- | ----- | 
-|  [Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/code/Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)  | [Query_Data.ipynb](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/code/Query_Data.ipynb) |
-| [Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb) | [Process_Data.ipynb](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/code/Process_Data.ipynb) |
-|  | [Analyze_Data.ipynb](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/code/Analyze_Data.ipynb) | 
+|  [Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb](https://github.com/SciEcon/Gas-Price/blob/main/code/Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)  | [Query_Data.ipynb](https://github.com/SciEcon/Gas-Price/blob/main/code/Query_Data.ipynb) |
+| [Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb](https://github.com/SciEcon/Gas-Price/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb) | [Process_Data.ipynb](https://github.com/SciEcon/Gas-Price/blob/main/code/Process_Data.ipynb) |
+|  | [Analyze_Data.ipynb](https://github.com/SciEcon/Gas-Price/blob/main/code/Analyze_Data.ipynb) | 
 
 ## Spotlight
 - Prediction
   
-![image](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/spotlight/figures/Linear%20Regression.png)
+![image](https://github.com/SciEcon/Gas-Price/blob/main/spotlight/figures/Linear%20Regression.png)
 ### Figure No.1. Linear regression prediction histogram of the stability of Gas Fee
 The figure above uses the linear regression prediction method in machine learning and is obtained by collecting the standard deviation of the daily average gas price used of the Ethereum data. The blue section represents the real data and the green section represents the data predicted by linear regression. It can be noted that the predicted data in the first half of the horizontal coordinate is larger than the actual data. In other words, the predicted value is greater than the actual predicted value, and the actual standard deviation of the daily average gas price is significantly reduced due to the impact of the event.
 
 - Causal Inference Research Design
 
-![image](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/spotlight/figures/Causal%20Inference%20Research%20Design.png)
+![image](https://github.com/SciEcon/Gas-Price/blob/main/spotlight/figures/Causal%20Inference%20Research%20Design.png)
 ### Figure No.2. Causal Inference Research Design
 In this exploratory research, the standard deviation of the daily average gas price used of the Ethereum was analyzed by regression discontinuity design network data from July 30, 2015 to June 23, 2023, including data before and after the London Upgrade. If you don't consider the London Upgrade, the standard deviation of the daily average gas price used of the Ethereum network. It should steadily increase according to the original trend, that is, the stability of the gas price will decrease. But given the  London Upgrade in August 5, 2021 the standard deviation of the daily average gas price used of the Ethereum network was expected to turn around and gradually decline because of this event. But it won't go to zero. This means that the London Upgrade is expected to contribute to increasing the stability of the gas price in this exploratory research.
 
 - Causal Inference
 
-![image](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/spotlight/figures/Casual%20Inference.png)
+![image](https://github.com/SciEcon/Gas-Price/blob/main/spotlight/figures/Casual%20Inference.png)
 ### Figure No.3. Result
 The blue broken line in the figure above represents the actual change in the standard deviation of the daily average gas price used of the Ethereum. The solid red line is the linear regression fitting line of the standard deviation of the daily average gas price before the London Upgrade, while the dotted line in red is an extension of this line after the London Upgrade. The dark blue straight line is a linear regression fit for the standard deviation of the daily average gas price after the London Upgrade. The grey vertical dotted line represents the London Upgrade on August 5, 2021.
 By observing the two linear regression fitting lines, it can be judged that after the London Upgrade event, the standard deviation of the daily average gas price used of the Ethereum The trend has changed from upward to downward. This is consistent with the predictions in the study design. So we accept the predictions in the study design that the London Upgrade to the standard deviation of the daily average gas price used of the Ethereum There are negative effects, that is, the London Upgrade contributes to increasing the stability of the gas price in this exploratory research.
 
 ## More about the Author
 
-![image](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/headshot.jpeg)
+![image](https://github.com/SciEcon/Gas-Price/blob/main/headshot.jpeg)
 - Yiyang Zhang is from the class of 2025, majoring in Computation and Design with tracks in Digital Media at Duke Kunshan University. She is designated a Summer Research Scholar for the summer of 2023 and awarded by the SRS program. Her research interest is NFT transaction, digital design, and media interaction. 
 
 ## References
