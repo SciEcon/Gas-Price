@@ -26,12 +26,12 @@ In this exploratory research, the standard deviation of the daily average gas pr
 
 
 ## Table of Contents
-- [Data](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/README.md#data)
-- [Code](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/README.md#code)
-- [Spotlight](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/README.md#spotlight)
-- [More about the author](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/README.md#more-about-the-author)
-- [References](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/README.md#references)
-- [GitHub Page](https://github.com/YiyangZhangyz738/Gas-Price/tree/main)
+- [Data](https://github.com/SciEcon/Gas-Price/blob/main/README.md#data)
+- [Code](https://github.com/SciEcon/Gas-Price/blob/main/README.md#code)
+- [Spotlight](https://github.com/SciEcon/Gas-Price/blob/main/README.md#spotlight)
+- [More about the author](https://github.com/SciEcon/Gas-Price/blob/main/README.md#more-about-the-author)
+- [References](https://github.com/SciEcon/Gas-Price/blob/main/README.md#references)
+- [GitHub Page](https://github.com/SciEcon/Gas-Price/tree/main)
 
 
 
@@ -41,11 +41,11 @@ In this exploratory research, the standard deviation of the daily average gas pr
 
 | Data Files | Data Type | Data Content |
 | ----- | ----- | ----- | 
-|  [GasPrice.csv](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/data/Queried_Data/GasPrice.csv) | Queried | the daily average gas price used of the Ethereum network | 
-| [GP.csv](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/data/Queried_Data/GP.csv) |  Processed | arranged average gas price used of the Ethereum network |
-| [GPR.csv](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/data/Processed_Data/GPR.csv) | Processed |the standard deviation of the daily average gas price used of the Ethereum network |
-| [Regression_Train.csv](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/data/Processed_Data/Regression_Train.csv) | Processed | Training data for regression | 
-| [Regression_Test.csv](https://github.com/YiyangZhangyz738/Gas-Price/blob/main/data/Processed_Data/Regression_Test.csv) | Processed | Testing data for regression | 
+|  [GasPrice.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Queried_Data/GasPrice.csv) | Queried | the daily average gas price used of the Ethereum network | 
+| [GP.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Queried_Data/GP.csv) |  Processed | arranged average gas price used of the Ethereum network |
+| [GPR.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/GPR.csv) | Processed |the standard deviation of the daily average gas price used of the Ethereum network |
+| [Regression_Train.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/Regression_Train.csv) | Processed | Training data for regression | 
+| [Regression_Test.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/Regression_Test.csv) | Processed | Testing data for regression | 
 
 - Data Dictionary
 - 
