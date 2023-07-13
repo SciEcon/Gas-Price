@@ -52,7 +52,7 @@
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-| [Raribleaccount.csv](https:/Lgithub.com/SciEcon/SRS2923-NFT_ Marketplaces /b1ob/main/data/Raribleaccount.csv) |  |  |  |  |  |
+| [Raribleaccount.csv](https:/github.com/SciEcon/SRS2923-NFT_Marketplaces/b1ob/main/data/Raribleaccount.csv) |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
