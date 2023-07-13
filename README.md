@@ -17,22 +17,20 @@
 
 
 ## Table of Contents
-- [Data](https://github.com/SciEcon/Gas-Price/blob/main/README.md#data)
-- [Code](https://github.com/SciEcon/Gas-Price/blob/main/README.md#code)
-- [Spotlight](https://github.com/SciEcon/Gas-Price/blob/main/README.md#spotlight)
-- [More about the author](https://github.com/SciEcon/Gas-Price/blob/main/README.md#more-about-the-author)
-- [References](https://github.com/SciEcon/Gas-Price/blob/main/README.md#references)
-- [GitHub Page](https://github.com/SciEcon/Gas-Price/tree/main)
+- [Data](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/tree/main#data)
+- [Code](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/tree/main#code)
+- [Spotlight](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/tree/main#spotlight)
+- [GitHub Page](https://github.com/SciEcon/SRS2023-NFT_Marketplaces)
 
 
 
 ## Data
-- Data Source: https://etherscan.io/chart/gasprice
+- Data Source: https://zenodo.org/record/6526192
 - Meta Data Infomation:
 
 | Data Files | Data Type | Data Content |
 | ----- | ----- | ----- | 
-|  [GasPrice.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Queried_Data/GasPrice.csv) | Queried | the daily average gas price used of the Ethereum network | 
+|  [GasPrice.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Queried_Data/GasPrice.csv) | Processed | the daily average gas price used of the Ethereum network | 
 | [GP.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Queried_Data/GP.csv) |  Processed | arranged average gas price used of the Ethereum network |
 | [GPR.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/GPR.csv) | Processed |the standard deviation of the daily average gas price used of the Ethereum network |
 | [Regression_Train.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/Regression_Train.csv) | Processed | Training data for regression | 
