@@ -43,11 +43,11 @@
 
 | File Name | Variable Name | Description | Frecuency | Unit | Type |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| [ foundationsizetype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationsizetype.csv) |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| [ foundationsizetype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationsizetype.csv) | width | the width of the NFT assets on the Foundation | daily | pixel | int |
+|  | height | the height of NFT assets on Foundation | daily | pixel | int |
+|  | duration | the duration of NFT assets on Foundation | daily | second | float |
+|  | mimetype | the mime type of NFT assets on Foundation | daily | \ | string |
+|  | date | the last transaction time of NFT assets on Foundation | daily | day | datetime |
 | [ superrareaccount.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareaccount.csv)| |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
