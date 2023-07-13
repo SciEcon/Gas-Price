@@ -30,11 +30,14 @@
 
 | Data Files | Data Type | Data Content |
 | ----- | ----- | ----- | 
-|  [GasPrice.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Queried_Data/GasPrice.csv) | Processed | the daily average gas price used of the Ethereum network | 
-| [GP.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Queried_Data/GP.csv) |  Processed | arranged average gas price used of the Ethereum network |
-| [GPR.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/GPR.csv) | Processed |the standard deviation of the daily average gas price used of the Ethereum network |
-| [Regression_Train.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/Regression_Train.csv) | Processed | Training data for regression | 
-| [Regression_Test.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/Regression_Test.csv) | Processed | Testing data for regression | 
+|  [foundationsizetype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationsizetype.csv) | Processed | | 
+|  [superrareaccount.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareaccount.csv) | Processed | | 
+|  [Raribleaccount.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleaccount.csv) | Processed | | 
+|  [foundationevent.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationevent.csv) | Processed | | 
+|  [superrareeventtype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareeventtype.csv) | Processed | | 
+|  [Raribleventtype1.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype1.csv) | Processed | | 
+|  [Raribleventtype2.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype2.csv) | Processed | | 
+
 
 - Data Dictionary
 - 
