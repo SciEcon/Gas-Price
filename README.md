@@ -40,21 +40,30 @@
 
 
 - Data Dictionary
-- 
+
 | File Name | Variable Name | Description | Frecuency | Unit | Type |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| [GasPrice.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Queried_Data/GasPrice.csv)  | Date(UTC) | date of data collected | daily | day | datetime |
-|  | UnixTimeStamp | UnixTimeStamp of data collected | daily | None | Timestamp |
-|  | Value (Wei) | the daily average gas price used of the Ethereum network | daily | Wei | int |
-| [GP.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Queried_Data/GP.csv) | Date(UTC) | date of data collected | daily | day | datetime |
-|  | UnixTimeStamp | UnixTimeStamp of data collected | daily | None | Timestamp |
-|  | Value (Wei) | the daily average gas price used of the Ethereum network | daily | Wei | int |
-| [GPR.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/GPR.csv)  |  Date | date of data collected | daily | day | datetime |
-|  | Rate | the standard deviation of the daily average gas price used of the Ethereum network | daily | None | float |
-| [Regression_Train.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/Regression_Train.csv) | theta | the daily average gas price used of the Ethereum network | daily | None | float |
-|  | theta_past_ma10 | average standard deviation of past 10 days | daily | None | float |
-| [Regression_Test.csv](https://github.com/SciEcon/Gas-Price/blob/main/data/Processed_Data/Regression_Test.csv) | theta | the daily average gas price used of the Ethereum network | daily | None | float |
-|  | theta_past_ma10 | average standard deviation of past 10 days | daily | None | float |
+| [ foundationsizetype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationsizetype.csv) |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| [ superrareaccount.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareaccount.csv)| |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| [Raribleaccount.csvl(https:/Lgithub.com/SciEcon/SRS2923-NFT_ Marketplaces /b1ob/main/data/Raribleaccount.csv) |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| [foundationevent.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationevent.csv) |  |  |  |  |  |
+|  |  |  |  |  |  |
+| [superrareeventtype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareeventtype.csv)
+|  |  |  |  |  |  |
+| [Raribleventtype1.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtypel.csv)
+|  |  |  |  |  |  |
+| [Raribleventtype2.csv](https:/Lgithub.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype2.csv)
+|  |  |  |  |  |  |
 
 ## Code
 - Prediction Code Source: https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction
