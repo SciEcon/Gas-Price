@@ -30,13 +30,13 @@
 
 | Data Files | Data Type | Data Content |
 | ----- | ----- | ----- | 
-|  [foundationsizetype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationsizetype.csv) | Processed | | 
-|  [superrareaccount.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareaccount.csv) | Processed | | 
-|  [Raribleaccount.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleaccount.csv) | Processed | | 
-|  [foundationevent.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationevent.csv) | Processed | | 
-|  [superrareeventtype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareeventtype.csv) | Processed | | 
-|  [Raribleventtype1.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype1.csv) | Processed | | 
-|  [Raribleventtype2.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype2.csv) | Processed | | 
+|  [foundationsizetype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationsizetype.csv) | Processed | The size, duration, file type, and last transaction time of the NFT asset on Foundation. | 
+|  [superrareaccount.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareaccount.csv) | Processed | Accessibility of user names and addresses for both sides of the transaction on SuperRare. | 
+|  [Raribleaccount.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleaccount.csv) | Processed | Accessibility of user names and addresses for both sides of the transaction on Rarible. | 
+|  [foundationevent.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationevent.csv) | Processed | Classification of NFT events on the Foundation (e.g., mint, buy, sell, auction creation) and when the event occurred. | 
+|  [superrareeventtype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareeventtype.csv) | Processed | Classification of NFT events on the SuperRare (e.g., mint, buy, sell, auction creation) and when the event occurred. | 
+|  [Raribleventtype1.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype1.csv) | Processed | Classification of NFT events on the Rarible (e.g., mint, buy, sell, auction creation) and when the event occurred. （first part)  | 
+|  [Raribleventtype2.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype2.csv) | Processed | Classification of NFT events on the Rarible (e.g., mint, buy, sell, auction creation) and when the event occurred. （second part)  | 
 
 
 - Data Dictionary
