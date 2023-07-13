@@ -1,1 +1,1 @@
-Data Source: https://etherscan.io/chart/gasprice
+Data Source: https://zenodo.org/record/6526192
