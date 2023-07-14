@@ -70,7 +70,7 @@
 
 ## Code
 
-| Changes in NFT asset characteristics | Privacy of NFT trading accounts | Changes in the types of NFT events | Changes in the type of access link for NFT assets |
+| Changes in NFT asset characteristics | Privacy of NFT transaction accounts | Changes in the types of NFT events | Changes in the type of access link for NFT assets |
 | ----- | ----- | ----- | ----- |
 | [FoundationSizeType.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/FoundationSizeType.ipynb) | [SuperrareAccount.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/SuperrareAccount.ipynb) | [Foundation_Event_Type.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/Foundation_Event_Type.ipynb) | [NiftyURL.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/NiftyURL.ipynb) |
 |  | [RaribleAccount.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/RaribleAccount.ipynb) | [SuperRare_Event_Type.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/SuperRare_Event_Type.ipynb) |  |
@@ -109,19 +109,48 @@
 ![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/Average%20Height%20Variation%20of%20Image.png)
 -
 
-### Figure No.2. Causal Inference Research Design
-![image]()
-![image]()
-![image]()
+### Privacy of NFT transaction accounts
+#### Rarible
+- Figure No.7. Account Accessibility of Transactions on Rarible.png
 
-### Figure No.3. Result
-![image]()
-![image]()
-![image]()
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/Account%20Accessibility/Account%20Accessibility%20of%20Transactions%20on%20Rarible.png)
+-
+
+#### Superrare
+- Figure No.8. Account Accessibility of Transactions on Superrare.png
+
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/Account%20Accessibility/Account%20Accessibility%20of%20Transactions%20on%20Superrare.png)
+-
+
+### Changes in the types of NFT events
+#### Foundation
+- Figure No.9. Foundation Event Type.png
+
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/EventTypeDistribution/Foundation%20Event%20Type.png)
+-
+
+#### Rarible
+- Figure No.10. Rarible Event Type.png
+
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/EventTypeDistribution/Rarible%20Event%20Type.png)
+-
+
+#### SuperRare
+- Figure No.11. SuperRare Event Type.png
+
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/EventTypeDistribution/SuperRare%20Event%20Type.png)
+-
+
+### Changes in the type of access link for NFT assets
+#### Nifty
+- Figure No.12. Nifty Website Proportions.png
+
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/NiftyURL/Nifty%20Website%20Proportions.png)
+-
+
 
 ## More about the Author
 
-![image](https://github.com/SciEcon/Gas-Price/blob/main/headshot.jpeg)
 - Yiyang Zhang is from the class of 2025, majoring in Computation and Design with tracks in Digital Media at Duke Kunshan University. She is designated a Summer Research Scholar for the summer of 2023 and awarded by the SRS program. Her research interest is NFT transaction, digital design, and media interaction. 
 
 ## References
