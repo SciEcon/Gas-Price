@@ -37,7 +37,7 @@
 |  [superrareeventtype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareeventtype.csv) | Processed | Classification of NFT events on the SuperRare (e.g., mint, buy, sell, auction creation) and when the event occurred. | 
 |  [Raribleventtype1.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype1.csv) | Processed | Classification of NFT events on the Rarible (e.g., mint, buy, sell, auction creation) and when the event occurred. （first part)  | 
 |  [Raribleventtype2.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype2.csv) | Processed | Classification of NFT events on the Rarible (e.g., mint, buy, sell, auction creation) and when the event occurred. （second part)  | 
-
+|  [nifty url.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/nifty%20url.csv) | Processed | image url of the NFT asset on Nifty | 
 
 - Data Dictionary
 
@@ -64,17 +64,18 @@
 |  | type | the typr of the NFT event on the Rarible | event | \ | string |
 | [Raribleventtype2.csv](https:/Lgithub.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype2.csv) | time | the time of the NFT event on the Rarible | event | \ | datetime |
 |  | type | the typr of the NFT event on the Rarible | event | \ | string |
+| [nifty url.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/nifty%20url.csv) | URL | the image url of the NFT asset on Nifty | asset | \ | string | 
+|  | DATE | the last transaction date of the NFT asset on Nifty | asset | \ | datetime | 
+|  | URLTYPE | the website type according to the image url of the NFT asset on Nifty | asset | \ | string | 
 
 ## Code
-- Prediction Code Source: https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction
 
-- Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html
+| Changes in NFT asset characteristics | Privacy of NFT trading accounts | Changes in the types of NFT events | Changes in the type of access link for NFT assets |
 
-| Prediction | Causal Inference |
-| ----- | ----- | 
-|  [Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb](https://github.com/SciEcon/Gas-Price/blob/main/code/Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)  | [Query_Data.ipynb](https://github.com/SciEcon/Gas-Price/blob/main/code/Query_Data.ipynb) |
-| [Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb](https://github.com/SciEcon/Gas-Price/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb) | [Process_Data.ipynb](https://github.com/SciEcon/Gas-Price/blob/main/code/Process_Data.ipynb) |
-|  | [Analyze_Data.ipynb](https://github.com/SciEcon/Gas-Price/blob/main/code/Analyze_Data.ipynb) | 
+| ----- | ----- | ----- | ----- |
+| [FoundationSizeType.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/FoundationSizeType.ipynb) | [SuperrareAccount.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/SuperrareAccount.ipynb) | [Foundation_Event_Type.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/Foundation_Event_Type.ipynb) | [NiftyURL.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/NiftyURL.ipynb) |
+|  | [RaribleAccount.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/RaribleAccount.ipynb) | [SuperRare_Event_Type.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/SuperRare_Event_Type.ipynb) |  |
+|  |  | [RaribleAccount.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/RaribleAccount.ipynb) |  |
 
 ## Spotlight
   
