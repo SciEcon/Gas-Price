@@ -100,9 +100,12 @@
 - https://github.com/Rising-Stars-by-Sunshine/stats201-portfolio
 
 ### Literature
+
+```
 @inproceedings{nft-study,
     author = {Dipanjan Das and Priyanka Bose and Nicola Ruaro and Christopher Kruegel and Giovanni Vigna},
     booktitle = {Proceedings of the ACM Conference on Computer and Communications Security (CCS)},
     title = {Understanding Security Issues in the NFT Ecosystem},
     year = {2022}
 }
+```
