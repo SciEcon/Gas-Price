@@ -78,14 +78,23 @@
 
 ## Spotlight
   
-![image](https://github.com/SciEcon/Gas-Price/blob/main/spotlight/figures/Linear%20Regression.png)
 ### Figure No.1. Linear regression prediction histogram of the stability of Gas Fee
+![image]()
+-
+![image]()
+-
+![image]()
+-
 
-![image](https://github.com/SciEcon/Gas-Price/blob/main/spotlight/figures/Causal%20Inference%20Research%20Design.png)
 ### Figure No.2. Causal Inference Research Design
+![image]()
+![image]()
+![image]()
 
-![image](https://github.com/SciEcon/Gas-Price/blob/main/spotlight/figures/Casual%20Inference.png)
 ### Figure No.3. Result
+![image]()
+![image]()
+![image]()
 
 ## More about the Author
 
