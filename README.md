@@ -79,7 +79,8 @@
 ## Spotlight
   
 ### Figure No.1. Linear regression prediction histogram of the stability of Gas Fee
-![image]()
+#### MIME Type Distribution
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/MIME%20Type%20Distribution.png)
 -
 ![image]()
 -
