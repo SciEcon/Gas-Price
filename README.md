@@ -56,16 +56,16 @@
 |  | to_account_username | accessible or not for the username of the recipient account account of a transaction on Rarible | transaction | \ | int |
 |  | from_account_address | accessible or not for the address of the sender account of a transaction on Rarible | transaction | \ | int |
 |  | to_account_address | accessible or not for the address of the recipient account of a transaction on Rarible | transaction | \ | int |
-| [foundationevent.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationevent.csv) | time | the time of the NFT event on the Foundation | event | \ | datetime |
+| [foundationevent.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationevent.csv) | time | the time of the NFT event on the Foundation | event | day | datetime |
 |  | type | the typr of the NFT event on the Foundation | event | \ | string |
-| [superrareeventtype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareeventtype.csv) | time | the time of the NFT event on the SuperRare | event | \ | datetime |
+| [superrareeventtype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareeventtype.csv) | time | the time of the NFT event on the SuperRare | event | day | datetime |
 |  | type | the typr of the NFT event on the SuperRare | event | \ | string |
-| [Raribleventtype1.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtypel.csv) | time | the time of the NFT event on the Rarible | event | \ | datetime |
+| [Raribleventtype1.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtypel.csv) | time | the time of the NFT event on the Rarible | event | day | datetime |
 |  | type | the typr of the NFT event on the Rarible | event | \ | string |
-| [Raribleventtype2.csv](https:/Lgithub.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype2.csv) | time | the time of the NFT event on the Rarible | event | \ | datetime |
+| [Raribleventtype2.csv](https:/Lgithub.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype2.csv) | time | the time of the NFT event on the Rarible | event | day | datetime |
 |  | type | the typr of the NFT event on the Rarible | event | \ | string |
 | [nifty url.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/nifty%20url.csv) | URL | the image url of the NFT asset on Nifty | asset | \ | string | 
-|  | DATE | the last transaction date of the NFT asset on Nifty | asset | \ | datetime | 
+|  | DATE | the last transaction date of the NFT asset on Nifty | asset | day | datetime | 
 |  | URLTYPE | the website type according to the image url of the NFT asset on Nifty | asset | \ | string | 
 
 ## Code
