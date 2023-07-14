@@ -78,14 +78,28 @@
 
 ## Spotlight
   
-### 
+### Changes in NFT asset characteristics
 #### MIME Type Distribution
+- Figure No.1. MIME Type Distribution on Foundation
+
 ![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/MIME%20Type%20Distribution.png)
 -
-- Figure No.1. Linear regression prediction histogram of the stability of Gas Fee
 
-![image]()
+#### Characteristics Variation of Video
+- Figure No.1.
+
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/Average%20Width%20Variation%20of%20Video.png)
+
+- Figure No.1.
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/Average%20Height%20Variation%20of%20Video.png)
+
+- Figure No.1.
+
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/Average%20Duration%20Variation%20of%20Video.png)
 -
+
+- Figure No.1.
+
 ![image]()
 -
 
