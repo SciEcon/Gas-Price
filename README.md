@@ -48,14 +48,14 @@
 |  | duration | the duration of NFT assets on Foundation | daily | second | float |
 |  | mimetype | the mime type of NFT assets on Foundation | daily | \ | string |
 |  | date | the last transaction time of NFT assets on Foundation | daily | day | datetime |
-| [ superrareaccount.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareaccount.csv)| |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| [Raribleaccount.csv](https:/github.com/SciEcon/SRS2923-NFT_Marketplaces/b1ob/main/data/Raribleaccount.csv) |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| [ superrareaccount.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareaccount.csv)| from_account_username |  | accessible or not for the username of the sender account of a transaction on SuperRare | transaction | \ | int |
+|  | to_account_username | accessible or not for the username of the recipient account account of a transaction on SuperRare | transaction | \ | int |
+|  | from_account_address | accessible or not for the address of the sender account of a transaction on SuperRare | transaction | \ | int |
+|  | to_account_address | accessible or not for the address of the recipient account of a transaction on SuperRare | transaction | \ | int |
+| [Raribleaccount.csv](https:/github.com/SciEcon/SRS2923-NFT_Marketplaces/b1ob/main/data/Raribleaccount.csv) | from_account_username |  | accessible or not for the username of the sender account of a transaction on Rarible | transaction | \ | int |
+|  | to_account_username | accessible or not for the username of the recipient account account of a transaction on Rarible | transaction | \ | int |
+|  | from_account_address | accessible or not for the address of the sender account of a transaction on Rarible | transaction | \ | int |
+|  | to_account_address | accessible or not for the address of the recipient account of a transaction on Rarible | transaction | \ | int |
 | [foundationevent.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationevent.csv) |  |  |  |  |  |
 |  |  |  |  |  |  |
 | [superrareeventtype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareeventtype.csv)
