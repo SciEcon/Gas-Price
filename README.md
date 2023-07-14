@@ -71,7 +71,6 @@
 ## Code
 
 | Changes in NFT asset characteristics | Privacy of NFT trading accounts | Changes in the types of NFT events | Changes in the type of access link for NFT assets |
-
 | ----- | ----- | ----- | ----- |
 | [FoundationSizeType.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/FoundationSizeType.ipynb) | [SuperrareAccount.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/SuperrareAccount.ipynb) | [Foundation_Event_Type.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/Foundation_Event_Type.ipynb) | [NiftyURL.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/NiftyURL.ipynb) |
 |  | [RaribleAccount.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/RaribleAccount.ipynb) | [SuperRare_Event_Type.ipynb](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/code/SuperRare_Event_Type.ipynb) |  |
