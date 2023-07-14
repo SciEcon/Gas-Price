@@ -56,14 +56,14 @@
 |  | to_account_username | accessible or not for the username of the recipient account account of a transaction on Rarible | transaction | \ | int |
 |  | from_account_address | accessible or not for the address of the sender account of a transaction on Rarible | transaction | \ | int |
 |  | to_account_address | accessible or not for the address of the recipient account of a transaction on Rarible | transaction | \ | int |
-| [foundationevent.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationevent.csv) |  |  |  |  |  |
-|  |  |  |  |  |  |
-| [superrareeventtype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareeventtype.csv)
-|  |  |  |  |  |  |
-| [Raribleventtype1.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtypel.csv)
-|  |  |  |  |  |  |
-| [Raribleventtype2.csv](https:/Lgithub.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype2.csv)
-|  |  |  |  |  |  |
+| [foundationevent.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/foundationevent.csv) | time | the time of the NFT event on the Foundation | event | \ | datetime |
+|  | type | the typr of the NFT event on the Foundation | event | \ | string |
+| [superrareeventtype.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/superrareeventtype.csv) | time | the time of the NFT event on the SuperRare | event | \ | datetime |
+|  | type | the typr of the NFT event on the SuperRare | event | \ | string |
+| [Raribleventtype1.csv](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtypel.csv) | time | the time of the NFT event on the Rarible | event | \ | datetime |
+|  | type | the typr of the NFT event on the Rarible | event | \ | string |
+| [Raribleventtype2.csv](https:/Lgithub.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/data/Raribleventtype2.csv) | time | the time of the NFT event on the Rarible | event | \ | datetime |
+|  | type | the typr of the NFT event on the Rarible | event | \ | string |
 
 ## Code
 - Prediction Code Source: https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction
