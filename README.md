@@ -86,21 +86,27 @@
 -
 
 #### Characteristics Variation of Video
-- Figure No.1.
+- Figure No.2. Average Width Variation of Video.png
 
 ![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/Average%20Width%20Variation%20of%20Video.png)
 
-- Figure No.1.
+- Figure No.3. Average Height Variation of Video.png
+
 ![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/Average%20Height%20Variation%20of%20Video.png)
 
-- Figure No.1.
+- Figure No.4. Average Duration Variation of Video.png
 
 ![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/Average%20Duration%20Variation%20of%20Video.png)
 -
 
-- Figure No.1.
+#### Size Variation of Image
+- Figure No.5. Average Width Variation of Image.png
 
-![image]()
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/Average%20Width%20Variation%20of%20Image.png)
+
+- Figure No.6. Average Height Variation of Image.png
+
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/Average%20Height%20Variation%20of%20Image.png)
 -
 
 ### Figure No.2. Causal Inference Research Design
