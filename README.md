@@ -107,43 +107,47 @@
 - Figure No.6. Average Height Variation of Image.png
 
 ![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/Average%20Height%20Variation%20of%20Image.png)
+
+- Figure No.7. Average Height Variation of Image (Log Transformed).png
+
+![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/FundationSizeType/Average%20Height%20Variation%20of%20Image%20(Log%20Transformed).png)
 -
 
 ### Privacy of NFT transaction accounts
 #### Rarible
-- Figure No.7. Account Accessibility of Transactions on Rarible.png
+- Figure No.8. Account Accessibility of Transactions on Rarible.png
 
 ![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/Account%20Accessibility/Account%20Accessibility%20of%20Transactions%20on%20Rarible.png)
 -
 
 #### Superrare
-- Figure No.8. Account Accessibility of Transactions on Superrare.png
+- Figure No.9. Account Accessibility of Transactions on Superrare.png
 
 ![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/Account%20Accessibility/Account%20Accessibility%20of%20Transactions%20on%20Superrare.png)
 -
 
 ### Changes in the types of NFT events
 #### Foundation
-- Figure No.9. Foundation Event Type.png
+- Figure No.10. Foundation Event Type.png
 
 ![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/EventTypeDistribution/Foundation%20Event%20Type.png)
 -
 
 #### Rarible
-- Figure No.10. Rarible Event Type.png
+- Figure No.11. Rarible Event Type.png
 
 ![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/EventTypeDistribution/Rarible%20Event%20Type.png)
 -
 
 #### SuperRare
-- Figure No.11. SuperRare Event Type.png
+- Figure No.12. SuperRare Event Type.png
 
 ![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/EventTypeDistribution/SuperRare%20Event%20Type.png)
 -
 
 ### Changes in the type of access link for NFT assets
 #### Nifty
-- Figure No.12. Nifty Website Proportions.png
+- Figure No.13. Nifty Website Proportions.png
 
 ![image](https://github.com/SciEcon/SRS2023-NFT_Marketplaces/blob/main/spotlight/NiftyURL/Nifty%20Website%20Proportions.png)
 -
