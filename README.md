@@ -5,15 +5,8 @@
 - **Disclaimer**: SRS program instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Thanks to Professor Luyao Zhang for guiding my project. Thanks to the SciEcon editorial team including Xintong Wu, Wanlin Deng, Xinyu Tian, Zesen Zhuang, Prof. Luyao Zhang.
 - **Project Summary**: 
-  - [Summarize the Background/Motivation]
-
-  - [Research Questions] 
-  - [Application Scenario (Data Source)] 
-  - [Methodology]
-
-  - [Results] 
-
-  - [Intellectual Merits and Practical impacts of your project.] 
+  - [Data Source] Das, Dipanjan, Priyanka Bose, Nicola Ruaro, Christopher Kruegel, and Giovanni Vigna. 2021. “Understanding Security Issues in the NFT Ecosystem,” November. https://doi.org/10.48550/arxiv.2111.08893.
+https://zenodo.org/record/6526192
 
 
 ## Table of Contents
